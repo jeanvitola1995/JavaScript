@@ -1,0 +1,15 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de OB",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "jeanvitola",
+  "license": "ISC"
+}
